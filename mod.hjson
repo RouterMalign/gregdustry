@@ -8,7 +8,7 @@ name: "gregdustry"
 author: "ManuWar & Nicodium"
 
 #the fully qualified main class of the mod
-main: "example.ExampleJavaMod"
+main: "GregDustry.GregDustryMod"
 
 #the mod description as seen in the mod dialog
 description: "Gregtech but it is in mindustry"
