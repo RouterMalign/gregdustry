@@ -9,9 +9,9 @@ import mindustry.gen.*;
 import mindustry.mod.*;
 import mindustry.ui.dialogs.*;
 
-public class ExampleJavaMod extends Mod{
+public class GregDustryMod extends Mod{
 
-    public ExampleJavaMod(){
+    public GregDustryMod(){
     }
 
     @Override
